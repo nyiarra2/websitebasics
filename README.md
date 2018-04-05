@@ -7,6 +7,10 @@ This class has been created as an introductory course for K-12 school age partic
 ## Session I
   Learning/Logistical Objectives:
        For the first session students will learn how to set up a Github account, fork the repository and begin "tinkering" with the code located in index.html.
+       
+  ### Website Template Online View     
+  <img src= "https://grayson-pitt-spring2018.github.io/websitebasics/"></img>
+  
   
 ## Session II
     TBD
