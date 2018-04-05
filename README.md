@@ -9,8 +9,7 @@ This class has been created as an introductory course for K-12 school age partic
        For the first session students will learn how to set up a Github account, fork the repository and begin "tinkering" with the code located in index.html.
        
   ### Website Template Online View     
-   <a href="https://grayson-pitt-spring2018.github.io/websitebasics">
-    <i class="fa fa-code w3-xlarge"></i>
+  <a href="https://grayson-pitt-spring2018.github.io/websitebasics/" class="w3-bar-item w3-button w3-padding-large w3-hover-black"></a>
    
   
   
