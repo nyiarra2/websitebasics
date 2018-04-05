@@ -10,7 +10,7 @@ This class has been created as an introductory course for K-12 school age partic
        
   ### Website Template Online View     
   
-  <i class="fa fa-code"></i> <a href="https://grayson-pitt-spring2018.github.io/websitebasics/">Template View</a>
+  <i class="fa fa-code"></i> <a href="https://grayson-pitt-spring2018.github.io/websitebasics/">Click Here for Template View</a>
    
   
   
