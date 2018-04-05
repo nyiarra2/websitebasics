@@ -18,3 +18,14 @@ This class has been created as an introductory course for K-12 school age partic
      
 ## Session IV
     TBD
+    
+    
+# Have Questions? Feel free to contact us!
+
+Aisling Oonagh Quigley | aoq1@pitt.edu
+
+Chelsea Morning Gunn | cmg100@pitt.edu 
+
+Joseph Valdecanas | jov33@pitt.edu
+
+J. Stephanie Rose | jsr67@pitt.edu
