@@ -17,7 +17,7 @@ This class has been created as an introductory course for K-12 school age partic
   
 ## Session II
     TBD
-    
+    Image resources? If interested...either crediting yourself for photos you take of your community, etc. or find images at <a href="https://www.flickr.com/creativecommons/">Flickr Creative Commons</a>
 
 ## Session III
     TBD
