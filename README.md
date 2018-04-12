@@ -14,18 +14,17 @@ This class has been created as an introductory course for K-12 school age partic
    
   
   
-  
 ## Session II - 25 April 2018
-    TBD
+    Exploring the template
 
 ## Session III -02 May 2018
-    TBD
+    Adding images and text content.
      
 ## Session IV - 09 May 2018
-    TBD
+    Conducting research and how to add and properly cite sources. 
 
 ## Session V - 16 May 2018
-    TBD
+    Dangers of the web
   
 ## Session VI - 23 May 2018
     Presentations of websites | The Good, The Bad, and The Confusing about website basics
