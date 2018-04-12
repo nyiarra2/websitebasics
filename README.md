@@ -4,7 +4,7 @@
 # Website Basics Spring 2018
 This class has been created as an introductory course for K-12 school age participants to engage and become familiar with the construction of websites. After attending this course, students should be familiar with certain components of html that include but are not limited to links, navigation, and adding content such as pictures, paragraphs, etc.
 
-## Session I
+## Session I - 18 April 2018
   Learning/Logistical Objectives:
        For the first session students will learn how to set up a Github account, fork the repository and begin "tinkering" with the code located in index.html.
        
@@ -15,15 +15,20 @@ This class has been created as an introductory course for K-12 school age partic
   
   
   
-## Session II
+## Session II - 25 April 2018
     TBD
 
-## Session III
+## Session III -02 May 2018
     TBD
      
-## Session IV
+## Session IV - 09 May 2018
     TBD
-    
+
+## Session V - 16 May 2018
+    TBD
+  
+## Session VI -23 May 2018
+    Presentations of websites | The Good, The Bad, and The Confusing about website basics
     
 # Have Questions? Feel free to contact us!
 
