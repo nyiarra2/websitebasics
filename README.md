@@ -27,7 +27,7 @@ This class has been created as an introductory course for K-12 school age partic
 ## Session V - 16 May 2018
     TBD
   
-## Session VI -23 May 2018
+## Session VI - 23 May 2018
     Presentations of websites | The Good, The Bad, and The Confusing about website basics
     
 # Have Questions? Feel free to contact us!
