@@ -20,7 +20,15 @@ This class has been created as an introductory course for K-12 school age partic
   
   <i class="fa fa-code"></i> <a href="https://grayson-pitt-spring2018.github.io/websitebasics/">Click Here for Template View</a>
    
-  
+  ##### Session I Recap 
+ 
+It was a pleasure meeting you all! Just in case there was anything you missed in yesterday's session, the class got set up on Github and we went over interests. If you were unable to attend the first session and you are interested in joining please send your email address to any of us and we can add you to the Github classroom (emails are located below). Once you've gained access and clicked on the invitation, you will need to create a profile on Github - you will then receive an email from Github and click on the link to verify your account. After that, please fork (make a copy) of the repository, this is located in the upper right hand corner of the Github page. So pretty much
+     Send email to request invite > create Github profile > verify account > fork repository > THAT'S IT FOR SESSION I
+    
+ Just in case that was a bit much to follow, there is a video below with some of the steps to make it a bit easier. Also, we will be able to assist during our next session. 
+ 
+ *** PLACE HOLDER FOR VIDEO | COMING SOON ***
+   
   
 ## Session II - 25 April 2018
     Exploring the template
