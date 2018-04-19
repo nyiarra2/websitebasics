@@ -26,7 +26,7 @@ It was a pleasure meeting you all! Just in case there was anything you missed in
 
 <br>
      Send email to request invite > create Github profile > verify account > fork repository > THAT'S IT FOR SESSION I
- </br>
+<br>
  
  Just in case that was a bit much to follow, there is a video below with some of the steps to make it a bit easier. Also, we will be able to assist during our next session. 
  
