@@ -33,8 +33,7 @@ It was a pleasure meeting you all! Just in case there was anything you missed in
  
 <br>
 <p align="center">
-<embed width="420" height="315"
-src="https://youtu.be/WdFLZLsI5JE">
+Video Coming Soon | Experiencing Technical Difficulties
 </p>
 </p>
    
