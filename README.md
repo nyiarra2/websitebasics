@@ -33,7 +33,7 @@ It was a pleasure meeting you all! Just in case there was anything you missed in
  
 <br>
 <p align="center">
-Video Coming Soon | Experiencing Technical Difficulties
+Video Coming Soon | Experiencing Technical Difficulties - But in the Meantime <a href="https://youtu.be/WdFLZLsI5JE" target="_blank">Session I - How to Fork/a>.
 </p>
 </p>
    
