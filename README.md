@@ -33,7 +33,7 @@ It was a pleasure meeting you all! Just in case there was anything you missed in
  
 <br>
 <p align="center">
-  <img src = "https://i0.wp.com/cdn-images-1.medium.com/max/800/1*A4AZXGxmMSPgmoMzdmh98A.gif?resize=617%2C347&ssl=1"></img>
+  <img src = "https://youtu.be/WdFLZLsI5JE"></img>
 </p>
 </p>
    
