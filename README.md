@@ -35,9 +35,11 @@ It was a pleasure meeting you all! Just in case there was anything you missed in
    
   
 ## Session II - 25 April 2018
-    Exploring the template further...
+
+Exploring the template further...
     For today's session, students will set up their view of their recently forked respository. In order to do this, students will need to go into their settings, scroll down to  GitHub pages, make sure the source  is on the master branch, change the theme (this will not actually show that theme, but you will need to choose one regardless), and Github pages should generate a url code (the personal website). What this view will do is allow students to see their website updates as they make changes to the code. 
-    Once students have their websites set up - due to the varying website interests - students will be encourages to explore websites that fit their interests (e.g. cupcakes, gaming, music, etc.) and we will explore how code changes (or stays the same) in order to develop the different sites for different purposes. 
+    Once students have their websites set up - due to the varying website interests - students will be encourages to explore websites that fit their interests (e.g. cupcakes, gaming, music, etc.) and we will explore how code changes (or stays the same) in order to develop the different sites for different purposes.
+     
 
 ## Session III -02 May 2018
     Adding images and text content.
