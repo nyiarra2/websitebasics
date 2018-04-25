@@ -31,7 +31,10 @@ It was a pleasure meeting you all! Just in case there was anything you missed in
  
  Just in case that was a bit much to follow, there is a video below with some of the steps to make it a bit easier. Also, we will be able to assist during our next session. 
  
- *** PLACE HOLDER FOR VIDEO | COMING SOON ***
+<br>
+<p align="center">
+<img src = "https://pitt-my.sharepoint.com/:v:/g/personal/jsr67_pitt_edu/EbF5hSlfOvZBj4WRBP5yC3MB3-2NMYDMM25wF_QRfh4N5w?e=9TRbrz"></img>
+</p>
    
   
 ## Session II - 25 April 2018
