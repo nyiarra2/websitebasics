@@ -33,7 +33,8 @@ It was a pleasure meeting you all! Just in case there was anything you missed in
  
 <br>
 <p align="center">
-[![https://www.youtube.com/watch?v=WdFLZLsI5JE&feature=youtu.be](http://img.youtube.com/vi/WdFLZLsI5JE/0.jpg)](http://www.youtube.com/watch?v=WdFLZLsI5JE "Grayson Session I Recap")
+<embed width="420" height="315"
+src="https://youtu.be/WdFLZLsI5JE">
 </p>
 </p>
    
