@@ -33,7 +33,9 @@ It was a pleasure meeting you all! Just in case there was anything you missed in
  
 <br>
 <p align="center">
-<a href="https://pitt-my.sharepoint.com/:v:/g/personal/jsr67_pitt_edu/EbF5hSlfOvZBj4WRBP5yC3MB3-2NMYDMM25wF_QRfh4N5w?e=x0YobS" target="_blank">The Session Recap Video Should Be HERE!</a>.
+  <video width="600" controls>
+  <source src="https://pitt-my.sharepoint.com/:v:/g/personal/jsr67_pitt_edu/EbF5hSlfOvZBj4WRBP5yC3MB3-2NMYDMM25wF_QRfh4N5w?e=x0YobS" type="video/mp4">
+</video>
 </p>
 </p>
    
