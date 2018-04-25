@@ -33,7 +33,7 @@ It was a pleasure meeting you all! Just in case there was anything you missed in
  
 <br>
 <p align="center">
-<video src="https://pitt-my.sharepoint.com/:v:/g/personal/jsr67_pitt_edu/EbF5hSlfOvZBj4WRBP5yC3MB3-2NMYDMM25wF_QRfh4N5w?e=x0YobS" width="320" height="200" controls preload></video>
+  <iframe src="https://pitt-my.sharepoint.com/:v:/g/personal/jsr67_pitt_edu/EbF5hSlfOvZBj4WRBP5yC3MB3-2NMYDMM25wF_QRfh4N5w?e=x0YobS"></iframe>
 </p>
 </p>
    
