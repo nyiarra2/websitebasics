@@ -33,7 +33,7 @@ It was a pleasure meeting you all! Just in case there was anything you missed in
  
 <br>
 <p align="center">
-  ![](https://pitt-my.sharepoint.com/:v:/g/personal/jsr67_pitt_edu/EbF5hSlfOvZBj4WRBP5yC3MB3-2NMYDMM25wF_QRfh4N5w?e=x0YobS)
+  <img src = "https://i0.wp.com/cdn-images-1.medium.com/max/800/1*A4AZXGxmMSPgmoMzdmh98A.gif?resize=617%2C347&ssl=1"></img>
 </p>
 </p>
    
